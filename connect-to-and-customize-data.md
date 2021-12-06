@@ -4,6 +4,8 @@
 
 # Connecting to Data<a name="1"></a>
 
+<a href="assets/1/data_connection_practice.xlsx" download>Click to Download</a>
+
 #### [^ back to top of page](#top)
 # Customizing a Data Source<a name="2"></a>
 
