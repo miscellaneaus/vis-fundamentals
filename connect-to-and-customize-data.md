@@ -2,51 +2,7 @@
 # Connect to and Customize Data
 <hr>
 
-# Connecting to Data
-# Customizing a Data Source
-# Working with a Data Extract
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+# Connecting to Data<a name="1"></a>
+# Customizing a Data Source<a name="2"></a>
+# Working with a Data Extract<a name="3"></a>
 
--
--
--
--
--
--
--
-
--
-
--
--
--
--
--
--
-
--
--
--
--
--
--
--
--
--
--
-<a name="1"></a>
