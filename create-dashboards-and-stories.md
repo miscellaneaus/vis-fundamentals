@@ -286,6 +286,56 @@ ANSWER: To make the information complete.
 
 #### [^ back to top of page](#top)
 # Telling stories with data<a name="4"></a>
+## 1. Introduction to Tableau stories
+
+A story is a sheet that contains a sequence of views and dashboards that work together to convey information. You can use stories to make a compelling case by showing how analytical insights are connected. 
+
+Since a story is a sheet, the methods you use to create, name, and manage worksheets and dashboards also apply to stories. Each individual sheet in a story is called a story point.
+
+When you share a story — for example, by publishing a workbook to Tableau Public, Tableau Server, or Tableau Online — users can interact with the story to reveal new findings or interact with data.
+
+Since a story is a sheet, the methods you use to create, name, and manage worksheets and dashboards also apply to stories. Each individual sheet in a story is called a story point.
+
+When you share a story —for example, by publishing a workbook to Tableau Public, Tableau Server, or Tableau Online—users can interact with the story to reveal new findings or interact with data.
+
+Watch this one minute introduction to learn about using stories in Tableau.
+
+```Using stories in Tableau```
+    
+As shown in the video above, you can create stories to tell a data narrative, provide context, demonstrate how decisions relate to outcomes, or simply make a compelling business case. 
+
+### Best practices for telling great stories
+
+A good data story brings data and discoveries to life. Use the following best practices when creating a story:
+#### Know the story's purpose
+Before you build your story, take some time to think about the purpose and what you want your viewers’ journey to be. Is it a call to action, is it a simple narrative, or are you presenting a business case? 
+
+If you're presenting a case, decide whether you want to present data points that lead up to a conclusion at the end, or start with a conclusion, and then show the supporting data points. The latter approach works well for a busy audience.
+
+Finally, sketching out your story first on paper or a whiteboard can help you quickly identify problems with your sequence.
+
+#### Keep it simple
+A common error is trying to cram too many views and dashboards into a single story. The result is too many points for your viewers to take in. The clarity of each story point is also important. 
+
+Take a step back and consider your story from the perspective of someone who’s never seen it. Every element should serve a purpose. If captions, titles, legends, or grid lines aren’t necessary, get rid of them!
+
+#### Plan for fast load times
+The most wonderful story in the world won’t have much impact if it takes too long to load. People find long waits frustrating. Some of the most critical performance decisions you make begin before you even create your first view or story, in the data preparation stage.
+
+#### Use 'Fit to' in your dashboards
+Dashboards are a common ingredient in Tableau stories. For dashboards that you plan to include in your story, use the Fit to option under Size on the Dashboard pane. It will resize your dashboard so that it’s the right size for the story you’re creating.
+
+## 2. Steps in creating a story
+As you learned previously, stories show how facts are connected, and how decisions relate to outcomes. When you create a story, each story point can be based on a different view or dashboard, or the entire story can be based on the same visualization seen at different stages. You can then publish your story to the web, or present it to an audience.
+
+When creating a story, use the following sequence of steps.
+
+## 3. Create a story
+Now that you are familiar with the overall process of creating a story, let’s learn how to create one. First, let’s look at the story workspace and the features available to create a story in Tableau.
+
+## 4. Format a story
+
+## 5. Try it! Create and format a story
 
 
 ### FILES
