@@ -43,9 +43,7 @@ The following dashboard uses a floating view for the color legend to help users 
 
 #### ADD WHITE SPACE
 White space helps to align and separate objects. Add white space using one of the following methods:
-
 - Insert and resize a blank container.
-
 - Adjust either the outer or inner padding of a view, container, or object.
 
 Padding lets you precisely space items on a dashboard, while borders and background colors let you visually highlight them. 
