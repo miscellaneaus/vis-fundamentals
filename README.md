@@ -1,57 +1,57 @@
 ## [Connect to and Customize Data](connect-to-and-customize-data.md)
-#### Connecting to Data
-#### Customizing a Data Source
-#### Working with a Data Extract
+#### [Connecting to Data](connect-to-and-customize-data.md/#1)
+#### [Customizing a Data Source](connect-to-and-customize-data.md/#2)
+#### [Working with a Data Extract](connect-to-and-customize-data.md/#3)
 
 ## [Organize Data and Create Filters](organize-data-and-create-filters.md)
-#### Creating groups in your data
-#### Creating hierarchies in your data
-#### Understanding filtering in Tableau
-#### Filtering your data
-#### Sorting your data
-#### Using sets to highlight data
+#### [Creating groups in your data](organize-data-and-create-filters.md/#1)
+#### [Creating hierarchies in your data](organize-data-and-create-filters.md/#2)
+#### [Understanding filtering in Tableau](organize-data-and-create-filters.md/#3)
+#### [Filtering your data](organize-data-and-create-filters.md/#4)
+#### [Sorting your data](organize-data-and-create-filters.md/#5)
+#### [Using sets to highlight data](organize-data-and-create-filters.md/#6)
 
 ## [Build Common Views](build-common-views.md)
-#### Working with dates to visualize time based data
-#### Creating custom date fields and hierarchies
-#### Comparing multiple measures in views
-#### Using scatter plots to show relationships between measures
-#### Creating spreadsheet ilke views using text tables
-#### Using a highlight table to show specific values
-#### Showing breakdowns of the whole using pie charts
-#### Showing breakdowns of the whole using tree maps
-#### Using bar in bar charts and bullet graphs to compare measures
+#### [Working with dates to visualize time based data](build-common-views.md/#1)
+#### [Creating custom date fields and hierarchies](build-common-views.md/#2)
+#### [Comparing multiple measures in views](build-common-views.md/#3)
+#### [Using scatter plots to show relationships between measures](build-common-views.md/#4)
+#### [Creating spreadsheet ilke views using text tables](build-common-views.md/#5)
+#### [Using a highlight table to show specific values](build-common-views.md/#6)
+#### [Showing breakdowns of the whole using pie charts](build-common-views.md/#7)
+#### [Showing breakdowns of the whole using tree maps](build-common-views.md/#8)
+#### [Using bar in bar charts and bullet graphs to compare measures](build-common-views.md/#9)
 
 ## [Map Geographic Data](map-geographic-data.md)
-#### Creating symbol and filled maps
-#### Creating a density map
+#### [Creating symbol and filled maps](map-geographic-data.md/#1)
+#### [Creating a density map](map-geographic-data.md/#2)
 
 ## [Create Calculated Fields](create-calculated-fields.md)
-#### Creating calculated fields for deeper analysis
-#### Working with string and type conversion functions
-#### Working with date functions
-#### Working with aggregate functions
+#### [Creating calculated fields for deeper analysis](create-calculated-fields.md/#1)
+#### [Working with string and type conversion functions](create-calculated-fields.md/#2)
+#### [Working with date functions](create-calculated-fields.md/#3)
+#### [Working with aggregate functions](create-calculated-fields.md/#4)
 
 ## [Apply Table Calculations](apply-table-calculations.md)
-#### Using quick table calculations to analyze data
+#### [Using quick table calculations to analyze data](apply-table-calculations.md/#1)
 
 ## [Apply Analytics](apply-analytics.md)
-#### Highlighting values with reference lines and bands
-#### Using parameters to control data in the view
-#### Using histograms and box plots to show distribution
+#### [Highlighting values with reference lines and bands](apply-analytics.md/#1)
+#### [Using parameters to control data in the view](apply-analytics.md/#2)
+#### [Using histograms and box plots to show distribution](apply-analytics.md/#3)
 
 ## [Work with Multiple Data Sources](work-with-multiple-data-sources.md)
-#### Creating relationships between tables
-#### Joining tables using a common field
-#### Using unions to combine data
-#### Blending multiple data sources using a common field
+#### [Creating relationships between tables](work-with-multiple-data-sources.md/#1)
+#### [Joining tables using a common field](work-with-multiple-data-sources.md/#2)
+#### [Using unions to combine data](work-with-multiple-data-sources.md/#3)
+#### [Blending multiple data sources using a common field](work-with-multiple-data-sources.md/#4)
 
 ## [Create Dashboards and Stories](create-dashboards-and-stories.md)
-#### Building a dashboard
-#### Creating interactive dashboards using actions
-#### Refining a dashboard
-#### Telling stories with data
+#### [Building a dashboard](create-dashboards-and-stories.md/#1)
+#### [Creating interactive dashboards using actions](create-dashboards-and-stories.md/#1)
+#### [Refining a dashboard](create-dashboards-and-stories.md/#3)
+#### [Telling stories with data](create-dashboards-and-stories.md/#4)
 
 ## [Share and Publish Content](share-and-publish-content.md)
-#### Publishing workbooks
-#### Exporting and downloading content
+#### [Publishing workbooks](share-and-publish-content.md/#1)
+#### [Exporting and downloading content](share-and-publish-content.md/#1)
