@@ -2,7 +2,7 @@
 # Create Dashboards and Stories
 <hr>
 
-# Building a dashboard
-# Creating interactive dashboards using actions
-# Refining a dashboard
-# Telling stories with data
+# Building a dashboard<a name="1"></a>
+# Creating interactive dashboards using actions<a name="2"></a>
+# Refining a dashboard<a name="3"></a>
+# Telling stories with data<a name="4"></a>
