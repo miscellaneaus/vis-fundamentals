@@ -31,7 +31,16 @@
 
 
 
-
+# FILES
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/Build a Bar-in-Bar Chart Starter.twbx"></a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/Build a Bullet Graph Starter.twbx">Build a Bullet Graph Starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/Build a Highlight Table Starter.twbx">Build a Highlight Table Starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/build_a_combined_axis_chart_starter.twbx">build_a_combined_axis_chart_starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/build_a_pie_chart_starter.twbx">build_a_pie_chart_starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/creating-custom-dates-starter.twbx">creating-custom-dates-starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/Marketing_Expenses_Scatter_Plot_Starter.twbx">Marketing_Expenses_Scatter_Plot_Starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/show_sales_totals_in_a_text_table_starter.twbx">show_sales_totals_in_a_text_table_starter.twbx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/3/show-data-across-discrete-and-continuous-months-starter.twbx">show-data-across-discrete-and-continuous-months-starter.twbx</a><br>
 
 
 
