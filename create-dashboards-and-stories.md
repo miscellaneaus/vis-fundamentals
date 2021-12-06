@@ -212,6 +212,7 @@ When you are done, your dashboard should look like the following.
 Good luck!
 ![image](https://user-images.githubusercontent.com/95596079/144786310-280a07a7-269b-4e55-ada6-ca672665b383.png)
 
+
 ### Download the file below to use with this activity
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/9/improve_a_dashboard's_design_starter.twbx">improve_a_dashboard's_design_starter.twbx</a><br>
 
@@ -220,58 +221,59 @@ Good luck!
 - The **Hint** provides additional guidance to complete the step.
 1. Open the starter file in Tableau.
 2. Add instructions to the Coffee Chain Profit Analysis view, similar to those used for the **Superstore Profit Analysis** view.
-    - Expected Result
+    - EXPECTED RESULT
     - ![image](https://user-images.githubusercontent.com/95596079/144786618-0bc61d4d-379c-447c-8454-207fac44d6b2.png)
-    - HINT:
-    1. Double-click the **Coffee Chain Profit Analysis** text.
-    2. Below <Sheet>, type Orange is a missed goal. Click to filter the view below. (Note: You will change the color of the marks in a later step)
-    3. Click OK.
- 
+
+    - HINT
+        - Double-click the **Coffee Chain Profit Analysis** text.
+        - Below \<Sheet\>, type Orange is a missed goal. Click to filter the view below. (Note: You will change the color of the marks in a later step)
+        - Click OK.
+
 3. Change the font and colors of the dashboard titles. Change the font of all worksheet titles to **Arial** and the color of the dashboard title from blue to black.
-    - EXPECTED RESULT:
+    - EXPECTED RESULT
     - ![image](https://user-images.githubusercontent.com/95596079/144786872-bba35b15-5902-4abe-bd4e-cecd11a40cf9.png)
 
-    - HINT:
-    1. Click Format and then select Workbook.
-    2. Under Fonts, click the drop-down arrow for Worksheet Titles.
-    3. Next, click the drop-down arrow next to the font Calibri.
-    4. From the list, select Arial.
-    5. Click the field again to close the drop-down list.
-    6. Next, click the drop-down arrow next to Dashboard Titles.
-    7. From the colors palette, select black and click the field again to close it.
-    8. Close the Format Workbook pane.
-    
+    - HINT
+        - Click Format and then select Workbook.
+        - Under Fonts, click the drop-down arrow for Worksheet Titles.
+        - Next, click the drop-down arrow next to the font Calibri.
+        - From the list, select Arial.
+        - Click the field again to close the drop-down list.
+        - Next, click the drop-down arrow next to Dashboard Titles.
+        - From the colors palette, select black and click the field again to close it.
+        - Close the Format Workbook pane.
+
 4. Move the **Region Selection** filter to a more prominent position under the dashboard title **Profit Analysis**. 
     - EXPECTED RESULT:
     - ![image](https://user-images.githubusercontent.com/95596079/144786887-fa2a0572-3e9c-40ec-a6cb-4dd7c10fe818.png)
 
     - HINT:
-    1. Select the **Region** view and place it below the **Profit Analysis** title.
-    2. Adjust and resize the window so the filter takes up minimal vertical space but is still large enough to show all content.
+        - Select the **Region** view and place it below the **Profit Analysis** title.
+        - Adjust and resize the window so the filter takes up minimal vertical space but is still large enough to show all content.
 5. Revise the colors for the **Coffee Chain Profit Analysis** sheet to match the colors in the **Superstore Profit Analysis** sheet.
     - EXPECTED RESULT:
     - ![image](https://user-images.githubusercontent.com/95596079/144786897-4e2941e1-ec68-4652-b02b-2a941d5434c3.png)
 
     - HINT:
-    1. Open the Coffee Chain Profit Analysis worksheet.
-    2. Click Color on the Marks card.
-    3. Click Edit Colors.
-    4. In the Select Data Item area, click False and then click orange.
-    5. In the Select Data Item area, click True and then click gray.
-    6. Click OK.
+        - Open the Coffee Chain Profit Analysis worksheet.
+        - Click Color on the Marks card.
+        - Click Edit Colors.
+        - In the Select Data Item area, click False and then click orange.
+        - In the Select Data Item area, click True and then click gray.
+        - Click OK.
   
 6. On the **Coffee Chain Profit Analysis** worksheet, add **Product Name** to the tooltip as a dynamic field.
     - EXPECTED RESULT:
     - ![image](https://user-images.githubusercontent.com/95596079/144786915-34a3d297-5181-4511-8b25-a3bf32dec5b3.png)
 
     - HINT:
-    1. Click the Coffee Chain Profit Analysis worksheet tab
-    2. On the Coffee Chain Profit Analysis worksheet, click Tooltip on the Marks card.
-    3. At the top of the text box, press the ENTER key to create a new space.
-    4. Type Product: and format it the same as the other text.
-    5. Place the cursor at the end of Product: and click Insert.
-    6. Select Product from the drop-down list.
-    7. Click OK.
+        - Click the Coffee Chain Profit Analysis worksheet tab
+        - On the Coffee Chain Profit Analysis worksheet, click Tooltip on the Marks card.
+        - At the top of the text box, press the ENTER key to create a new space.
+        - Type Product: and format it the same as the other text.
+        - Place the cursor at the end of Product: and click Insert.
+        - Select Product from the drop-down list.
+        - Click OK.
 
 Click the Profit Analysis dashboard tab to view your changes.
 ### Knowledge check
@@ -282,7 +284,6 @@ In the last step of this activity, you added a dynamic field to the tooltip. Why
 - [ ] To show and reflect the current product name.
 
 ANSWER: To make the information complete.
-
 
 #### [^ back to top of page](#top)
 # Telling stories with data<a name="4"></a>
@@ -333,16 +334,94 @@ When creating a story, use the following sequence of steps.
 ## 3. Create a story
 Now that you are familiar with the overall process of creating a story, let’s learn how to create one. First, let’s look at the story workspace and the features available to create a story in Tableau.
 
+### Creating a data story
+Watch the video to learn how to create a story to share insights about popular dog breeds in the United States.
+
+```Creating a story in Tableau```
+
+You saw in the video how to use the story feature in Tableau to showcase your analysis in a step-by-step format. Next, you will learn how to enhance the visual appeal of a story by using the various formatting options.
+
 ## 4. Format a story
+Similar to any view or dashboard, after you create a story, you may want to adjust its look and format. Perhaps, there’s a color scheme that fits with the story of your data? Or maybe you just want to make your story more visually appealing? 
+
+Watch the video to learn about formatting a story in Tableau.
+
+```Formatting a story```
+
+### Format a story's shading, title, and text objects (Tableau Desktop only)
+You can make further adjustments to a story’s format, such as shading, alignment, and fonts, using the Format Story options. You can access the Format Story window in one of two ways:
+1. Click **Story** from the menu, and then select **Format**. 
+2. Click **Format** from the menu, and then select **Story**.
+
+![image](https://user-images.githubusercontent.com/95596079/144792548-a8ea7514-6ef7-4cc6-81a6-523e127f5c9c.png)
+
+You can reset a story to its default format settings by clicking the Clear button at the bottom of the Format Story pane.
+![image](https://user-images.githubusercontent.com/95596079/144792619-fab097a6-f669-46f4-998f-d3afd27ffc93.png)
 
 ## 5. Try it! Create and format a story
+### Scenario
+Profit in the Furniture department of your company is very low, although sales are high compared to other departments. After analyzing the data, you’ve found that Table sales in the Eastern region have been deeply discounted. Create a data story to present your findings. 
 
+Good luck!
+![image](https://user-images.githubusercontent.com/95596079/144792720-6a1d9176-c07d-40bb-a260-0614ce57457e.png)
 
+#### Download the file below to use with this activity.
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/9/Telling stories starter.twbx">Telling stories starter.twbx</a><br>
+
+1. Open the starter file in Tableau
+2. Change the story size to Genetic Desktop (1366x768) and title to “What’s Happening with Tables in the East?”.
+    - EXPECTED RESULT
+    - ![image](https://user-images.githubusercontent.com/95596079/144793002-1c083ef4-07b4-4730-9251-946bfd07e226.png)
+
+    - HINT
+        - At the bottom of the left pane, click the Size menu.
+        - Change the size to Genetic Desktop (1366x768).
+        - Double-click the title and enter the text: What Is Happening with Tables in the East?
+3. Create a new story point with the Customer Purchases sheet. Use the caption “No profitable transactions for Tables in the East.” for the story point.
+    - EXPECTED RESULT
+    - ![image](https://user-images.githubusercontent.com/95596079/144793006-8a3959cf-28cd-43d2-af16-28cbe2f1aae7.png)
+
+    - HINT
+        - Click the Blank button in the left pane.
+        - Drag the Customer Purchases worksheet to the view.
+        - Click Add a caption and enter the text: No profitable transactions for Tables in the East.
+4. Add the description “We sell a lot of tables in the East but don’t make a profit. In fact, the larger the sale, the greater the profit loss” to the top right area of the view.
+    - EXPECTED RESULT
+    - ![image](https://user-images.githubusercontent.com/95596079/144793012-2f077d87-b5e8-4b86-9a04-475c7a6db3cd.png)
+
+    - HINT
+        - From the sidebar, drag Drag to add text to the top right area of view.
+        - Enter the description text: We sell a lot of tables in the East but don’t make a profit. In fact, the larger the sale, the greater the profit loss, and then click OK.
+5. Create a new story point with the dashboard Discounts per state. Specify the caption as “Comparing average Discount by Category”. 
+    - EXPECTED RESULT
+    - ![image](https://user-images.githubusercontent.com/95596079/144793019-eed5d98b-c07f-4922-85f0-f9aa615705a1.png)
+
+    - HINT
+        - Click the Blank button in the left pane.
+        - Drag the Discounts per state dashboard to the view area.
+        - Click Add a caption and enter the text: Comparing average Discount by Category.
+6. Annotate the Tables mark in the dashboard to indicate that high discounts are leading to low profits. Update the story point after adding the annotation.
+    - EXPECTED RESULT
+    - ![image](https://user-images.githubusercontent.com/95596079/144793026-0a762f1d-1901-44ba-81c3-4ae8ce3ff870.png)
+
+    - HINT
+        - Right-click the Tables mark in the Average Discounting sheet on the dashboard.
+        - Hover over Annotate, and then click Mark.
+        - Delete the existing text, and type: High discounts are leading to low profits.
+        - Update the story point by clicking the update icon at the top of the Navigator box.
+### Knowledge check
+You have been asked to analyze the final story point “Comparing average discount by category” to determine the discounts for products within each state in the Eastern region. What is the discount on Office Furnishings in Pennsylvania?
+- [ ] 10%
+- [ ] 7%
+- [ ] 5%
+- [ ] 4%
+
+ANSWER: 5%
 ### FILES
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/9/add_actions_to_a_dashboard_starter.twbx">add_actions_to_a_dashboard_starter.twbx</a><br>
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/9/Building_a_Dashboard_Starter.twbx">Building_a_Dashboard_Starter.twbx</a><br>
 
-<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/9/Telling stories starter.twbx">Telling stories starter.twbx</a><br>
+
 
 
 
