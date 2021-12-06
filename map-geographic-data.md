@@ -2,5 +2,5 @@
 # Map Geographic Data
 <hr>
 
-# Creating symbol and filled maps
-# Creating a density map
+# Creating symbol and filled maps<a name="1"></a>
+# Creating a density map<a name="2"></a>
