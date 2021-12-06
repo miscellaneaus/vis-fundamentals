@@ -24,6 +24,8 @@
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/8/US Tree Nut Production.xlsx">US Tree Nut Production.xlsx</a><br>
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/8/Wholesale Carbonated Beverages Products and Customers.xlsx">Wholesale Carbonated Beverages Products and Customers.xlsx</a><br>
 <img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/8/Wholesale Carbonated Beverages Transactions.xlsx">Wholesale Carbonated Beverages Transactions.xlsx</a><br>
+<img src="assets/File Icon Spaced.svg" height="20"/><a id="raw-url" href="https://raw.githubusercontent.com/miscellaneaus/vis-fundamentals/main/assets/8/Targets.json">Targets.json</a><br>
+
 <img src="assets/File Icon Spaced.svg" height="20"/>[Targets.json](assets/8/Targets.json)<br>
 form
 
